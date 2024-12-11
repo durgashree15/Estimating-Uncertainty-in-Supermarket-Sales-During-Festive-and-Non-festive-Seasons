@@ -3,3 +3,31 @@
 ### The project work was carried out to fulfill the requirement in **Business Data Management** course of my Diploma in Data Science program from IIT Madras (off-campus).
 
 This project aims to summarize the data sales and purchase data of a supermarket and point out a chuck of products that require alteration in service strategies. It is also expected to derive insights on the uniformity of the quantity of products sold and quantify the deviations through variance. Determining the elasticity of quantity of products sold during festive and non-festive seasons supports the shopkeepers with deciding on the right quantity of stocking and the timing for stocking. Hence, quantifiable outcomes for amending the service strategy and maintenance are expected to be developed from this work.
+
+**Majorly used tools and techniques:**
+- Box-plot analysis for outlier detection
+- Pivot tables for summary statistics
+- RegEX for string matching
+- Pandas and matplotlib libraries
+- Microsoft Excel
+- Statistics for business data analysis
+
+**Performed analysis in terms of products, revenue, purchase and profits:**
+![image](https://github.com/user-attachments/assets/6056d769-c95b-466f-8186-815d58c9aa39)
+![image](https://github.com/user-attachments/assets/cc2264b4-153b-4a1f-9d0b-0c15a249d9c3)
+![image](https://github.com/user-attachments/assets/5a65c06e-5857-450e-a833-fc80b33a0038)
+![image](https://github.com/user-attachments/assets/5b48f335-fd0f-4810-ab17-1ac925934c5b)
+![image](https://github.com/user-attachments/assets/8b41e8ed-de40-4d20-8509-081de0f39057)
+![image](https://github.com/user-attachments/assets/384d4c7c-68e9-475f-a6ad-ebc747219f9c)
+![image](https://github.com/user-attachments/assets/acfd7bab-eda3-427b-bd52-1b1554429060)
+![image](https://github.com/user-attachments/assets/b8b4c2e8-c220-44a3-80a2-127965c1ceaa)
+
+
+
+
+
+
+
+
+
+
