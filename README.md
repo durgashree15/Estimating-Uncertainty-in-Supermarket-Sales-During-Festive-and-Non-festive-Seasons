@@ -54,6 +54,21 @@ This project aims to summarize the data sales and purchase data of a supermarket
   <img src="https://github.com/user-attachments/assets/b8b4c2e8-c220-44a3-80a2-127965c1ceaa" alt="Sample Image" width="500" height="350">
 </div>
 
+On the basis of analysis of the supermarket data during both festive and non-festive seasons, it is recommended  
+
+1. To avoid situations of stockouts as initial days of festive season show huge purchases.
+   
+2. To prefer low to medium-sized packets for products while customizing the packet size/quantity within the supermarket.
+   
+3. To ensure to stock goods by weekends as the sales are slightly higher.
+   
+4. Festive weeks generally face huge standard deviation in sales. Hence, a sufficient amount of safety stock is to be maintained.
+   
+5. The owners can stay informed that festive seasons increase the revenue by 8-10%.
+   
+6. On an average, the contribution to revenue from all the weeks remained in the same for October 2022, with a festive week of Diwali included. This indicates that the supermarket has gained a lot of regular customers and festivals influence the sales only to the slightest extent.
+
+7.	Figure 16 indicates that the supermarket does not have a specified set of dealers. They make relative decisions based on situations for placing orders. It is recommended that the supermarket increases its ties with constant dealers for timely supply.
 
 
 
