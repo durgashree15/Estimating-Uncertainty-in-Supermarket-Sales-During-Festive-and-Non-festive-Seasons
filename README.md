@@ -15,7 +15,8 @@ This project aims to summarize the data sales and purchase data of a supermarket
 **Performed analysis in terms of products, revenue, purchase and profits:**
 
 Revenue generated in the festive week vs the other weeks together
-<img src="https://github.com/user-attachments/assets/6056d769-c95b-466f-8186-815d58c9aa39" alt="Sample Image" width="500" height="500" align="center">
+
+<img src="https://github.com/user-attachments/assets/6056d769-c95b-466f-8186-815d58c9aa39" alt="Sample Image" width="500" height="400" align="center">
 
 ![image](https://github.com/user-attachments/assets/cc2264b4-153b-4a1f-9d0b-0c15a249d9c3)
 ![image](https://github.com/user-attachments/assets/5a65c06e-5857-450e-a833-fc80b33a0038)
